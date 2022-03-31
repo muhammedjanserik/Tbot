@@ -1,0 +1,2 @@
+TOKEN = "2027079368:AAHYZyrSz-9c7iCGsLzgkB7cqcyas3H0Amo"
+my_id = 1063615182
